@@ -1,4 +1,4 @@
-👋 #Hi, I'm Laurent !
+👋 Hi, I'm Laurent !
 
 🔨 Once an ironworker, I retrained as a software developer and found my true passion in Java programming. I have expertise in Java, Spring, Spring Boot, Maven, and Java EE, and I'm always eager to expand my skillset.
 
